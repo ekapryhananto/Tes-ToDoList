@@ -25,7 +25,7 @@ const TambahListComponent = ({
 }) => {
   return (
     <View style={{flex: 1, padding: 12}}>
-      <TextMedium text={'Tambah Data'} size={16} color={'black'} />
+      <TextMedium text={'Isi Data'} size={16} color={'black'} />
       <InputText
         placeholderText="Note"
         multiline={true}
